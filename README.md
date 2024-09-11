@@ -19,9 +19,6 @@
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=pjm0409)](https://solved.ac/pjm0409)
 
-## Summary
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jongmiiin&layout=donut)](https://github.com/jongmiiin/github-readme-stats)
-
-## Github Stats
-![Jongmin's GitHub stats](https://github-readme-stats.vercel.app/api?username=jongmiiin&show_icons=true&theme=transparent)
+## Summary 🔍
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jongmiiin&layout=donut)](https://github.com/jongmiiin/github-readme-stats) ![Jongmin's GitHub stats](https://github-readme-stats.vercel.app/api?username=jongmiiin&show_icons=true&theme=transparent)
 
