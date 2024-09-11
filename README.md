@@ -1,6 +1,8 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=F5DA81&height=250&section=header&text=Jongmin's%20Github&fontSize=70" />
 
-## Hi there 👋
+## Hello 😊
+- 개발자 위해 열심히 공부하는 학생입니다.
+- 천천히, 하지만 꾸준히 노력하겠습니다.
 
 <!--
 **jongmiiin/jongmiiin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
