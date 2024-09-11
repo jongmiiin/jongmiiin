@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=F5DA81&height=250&section=header&text=Jongmin's%20Github&fontSize=70" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=F5DA81&height=200&section=header&text=Jongmin's%20Github&fontSize=70" />
 
 ## Hello 😊
 - 개발자 위해 열심히 공부하는 학생입니다.
@@ -15,4 +15,6 @@
 ### Document 🖋
 <img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=tistory&logoColor=white"/> <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/>
 
-
+## Problem Solving 📄✍
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=pjm0409)](https://solved.ac/pjm0409)
