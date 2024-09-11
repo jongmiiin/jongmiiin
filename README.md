@@ -1,5 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=F5DA81&height=200&section=header&text=Jongmin's%20Github&fontSize=70" />
-
+<p align="center">
+  
 ## Hello 😊
 - 개발자 위해 열심히 공부하는 학생입니다.
 - 천천히, 하지만 꾸준히 노력하겠습니다.
@@ -23,3 +24,4 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jongmiiin&layout=donut)](https://github.com/jongmiiin/github-readme-stats)   
 ![Jongmin's GitHub stats](https://github-readme-stats.vercel.app/api?username=jongmiiin&show_icons=true&theme=transparent)
 
+</p>
