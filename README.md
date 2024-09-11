@@ -1,5 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=F5DA81&height=200&section=header&text=Jongmin's%20Github&fontSize=70" />
-
+<div align=center> 
 
 # Hello 😊
 저는 박종민입니다
@@ -25,4 +25,4 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jongmiiin&layout=donut)](https://github.com/jongmiiin/github-readme-stats)   
 ![Jongmin's GitHub stats](https://github-readme-stats.vercel.app/api?username=jongmiiin&show_icons=true&theme=transparent)
 
-
+</div>
