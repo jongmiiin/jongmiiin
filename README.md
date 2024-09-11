@@ -4,17 +4,18 @@
 - 개발자 위해 열심히 공부하는 학생입니다.
 - 천천히, 하지만 꾸준히 노력하겠습니다.
 
-<!--
-**jongmiiin/jongmiiin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Tech Stacks 💻
+### Languages 📚
+<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=black"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=black"/>
+### Tools 🛠
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=black"/>
+<img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=github&logoColor=black"/>
+<img src="https://img.shields.io/badge/Sublime%20Text-FF9800?style=flat-square&logo=sublimetext&logoColor=black"/>
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=black"/>
+### Document 🖋
+<img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=tistory&logoColor=black"/>
+<img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=black"/>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://img.shields.io/badge/이름-색상코드?style=flat-square&logo=로고명&logoColor=로고색"/>
