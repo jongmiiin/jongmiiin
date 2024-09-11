@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=#F5DA81&height=250&section=header&text=Jongmin's%20Github&fontSize=70" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=F5DA81&height=250&section=header&text=Jongmin's%20Github&fontSize=70" />
 
 ## Hi there 👋
 
